@@ -29,12 +29,31 @@ Focused on backend development, APIs, and strong programming fundamentals.
 
 ## 🛠️ Main Technologies & Tools
 
-| Frontend | Backend | Database | Languages | Tools & DevOps | Problem Solving |
-|----------|--------|----------|-----------|----------------|----------------|
-| HTML5 | Node.js | MySQL | JavaScript | Git | Algorithms |
-| CSS3 | PHP |  | Java | GitHub | DSA |
-|  | REST API |  | C++ | VS Code | OOP |
-|  |  |  |  | Postman | System Basics |
+<p align="center">
+
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/REST%20API-grey?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B" />
+
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman" />
+
+  <img src="https://img.shields.io/badge/DSA-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-blue?style=for-the-badge" />
+
+</p>
 
 ---
 
