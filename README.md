@@ -1,7 +1,7 @@
 <h1 align="center">Backend Developer</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zemedkunworkalem32&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Zemedkunworkalem32&label=&color=0e75b6&style=flat" />
 </p>
 
 <h2 align="center">Hello! I'm Zemedkun Workalem 👋</h2>
