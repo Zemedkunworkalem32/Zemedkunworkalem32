@@ -22,7 +22,7 @@ Focused on backend development, APIs, and strong programming fundamentals.
   </a>
 </p>
 
----
+
 
 ## 🛠️ Main Technologies & Tools
 
@@ -52,7 +52,6 @@ Focused on backend development, APIs, and strong programming fundamentals.
 
 </p>
 
----
 
 ## 🔥 Core Focus
 
@@ -63,7 +62,7 @@ Focused on backend development, APIs, and strong programming fundamentals.
 - Problem Solving with DSA  
 - Writing clean and scalable code  
 
----
+
 
 ## 📌 Projects
 
@@ -74,7 +73,7 @@ Focused on backend development, APIs, and strong programming fundamentals.
 - 🏥 Medical Management System (C++)  
 - 🌍 Tour Management System (HTML, CSS, Java)  
 
----
+
 
 ## 🧠 Problem Solving
 
@@ -83,7 +82,7 @@ Focused on backend development, APIs, and strong programming fundamentals.
 ▸ Focus: Time & Space Optimization  
 ▸ Skills: Logical thinking and structured programming  
 
----
+
 
 ## 🌱 Currently Learning
 
@@ -92,7 +91,7 @@ Focused on backend development, APIs, and strong programming fundamentals.
 - API Development & Security  
 - Strong programming fundamentals  
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -100,7 +99,6 @@ Focused on backend development, APIs, and strong programming fundamentals.
   <img src="https://github-readme-stats.vercel.app/api?username=Zemedkunworkalem32&show_icons=true" />
 </p>
 
----
 
 ## ⚡ Fun Fact
 
